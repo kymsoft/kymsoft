@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifeanyichukwu Kemdinachi Lyonnet</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Problem Solver | Product Builder</h3>
+<h3 align="center">Full-Stack Software Engineer | Problem Solver | Founder of Dyce | CEO, Landscale </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kemdinachi-ifeanyi-36487a24a/" target="_blank">
